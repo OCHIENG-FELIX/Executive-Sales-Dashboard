@@ -51,7 +51,7 @@ The report includes a dedicated mobile layout optimized for smartphones to ensur
 
 # 🔍 Drill-through Analysis
 
-![Drill-through](Images/drill-through.png)
+![Drill-through](Images/Drill-through.png)
 
 Drill-through pages allow users to navigate from summary metrics into detailed regional and category analysis for deeper business investigation.
 
