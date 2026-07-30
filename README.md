@@ -33,13 +33,17 @@ This dashboard addresses those challenges through a modern, executive-focused re
 
 # 🖥 Dashboard Preview
 
-> **
+The main executive dashboard provides a high-level overview of sales performance, profitability, regional trends, and product category analysis through interactive KPIs and visualizations.
+
+<p align="center">
+  <img src="Images/dashboard-overview.png" width="900">
+</p>
 
 ---
 
 # 📱 Mobile Dashboard
 
-> *(Insert Mobile Dashboard Screenshot here)*
+![Mobile Dashboard](Images/mobile-dashboard.png)
 
 The report includes a dedicated mobile layout optimized for smartphones to ensure executives can monitor business performance on the go.
 
@@ -47,7 +51,7 @@ The report includes a dedicated mobile layout optimized for smartphones to ensur
 
 # 🔍 Drill-through Analysis
 
-> *(Insert Drill-through Screenshot here)*
+![Drill-through](Images/drill-through.png)
 
 Drill-through pages allow users to navigate from summary metrics into detailed regional and category analysis for deeper business investigation.
 
@@ -55,7 +59,7 @@ Drill-through pages allow users to navigate from summary metrics into detailed r
 
 # 💡 Report Page Tooltips
 
-> *(Insert Tooltip Screenshot here)*
+![Tooltip](Images/tooltip.png)
 
 Interactive report tooltips provide additional context without cluttering the main dashboard.
 
@@ -63,7 +67,7 @@ Interactive report tooltips provide additional context without cluttering the ma
 
 # 🗂 Data Model
 
-> *(Insert Data Model Screenshot here)*
+![Data Model](Images/data-model.png)
 
 The dashboard is built using a Star Schema model that improves performance, simplifies DAX calculations, and supports scalable reporting.
 
